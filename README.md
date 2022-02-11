@@ -1,5 +1,7 @@
 # Hi, I'm Sebastian Lobato Genco
-I'm a software engineer who is passionate about building Android apps. I love to learn, share and improve myself and the things that I build
+I'm a software engineer who is passionate about building Android apps.
+
+I ❤️ to learn, share and improve myself and the things that I build.
 
 
 ## Find me:
