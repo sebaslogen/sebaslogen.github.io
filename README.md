@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Sebastian Lobato Genco
+I'm a software engineer who is passionate about building Android apps. I love to learn, share and improve myself and the things that I build
 
 <!--
 **sebaslogen/sebaslogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
