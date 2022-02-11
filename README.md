@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about building Android apps. I love to
 - Sharing knowledge on <a href="https://twitter.com/sebaslogen"> Twitter</a> 
 - Blogging on the <a href="https://engineering.q42.nl/author/sebastian/">Q42 engineering blog</a>
 - And more on <a href="https://medium.com/@sebaslogen">Medium</a>
-- Sharing my carreer on <a href="https://www.linkedin.com/in/slobato/">LinkedIn</a>
+- Sharing my career on <a href="https://www.linkedin.com/in/slobato/">LinkedIn</a>
 
 ---
 
