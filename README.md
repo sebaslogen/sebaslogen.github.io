@@ -1,10 +1,11 @@
 # Hi, I'm Sebastian Lobato Genco
-I'm a software engineer who is passionate about building Android apps.
+### 💻 I'm a software engineer who is passionate about building Android apps.
 
-I ❤️ to learn, share and improve myself and the things that I build.
+### I ❤️ to learn, share and improve myself and the things that I build.
 
+---
 
-## Find me:
+## 👀 Find me
 - Sharing knowledge on <a href="https://twitter.com/sebaslogen"> Twitter</a> 
 - Blogging on the <a href="https://engineering.q42.nl/author/sebastian/">Q42 engineering blog</a>
 - And more on <a href="https://medium.com/@sebaslogen">Medium</a>
@@ -12,7 +13,7 @@ I ❤️ to learn, share and improve myself and the things that I build.
 
 ---
 
-## Blog posts
+## 📝 Blog posts
 - <a href="https://engineering.q42.nl/compose/">Every Composable deserves a ViewModel</a>
 - <a href="https://medium.com/@sebaslogen/blazing-fast-compose-tests-with-robolectric-b059f5471495">Blazing fast Compose tests with Robolectric</a>
 - <a href="https://engineering.q42.nl/android-server-driven-ui/">Android Server Driven UI</a>
