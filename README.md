@@ -20,6 +20,7 @@
 - <a href="https://engineering.q42.nl/android-q-changes/">Android Q – The breaking changes</a>
 - <a href="https://medium.com/@sebaslogen/the-danger-of-assumptions-kotlin-with-android-custom-views-adb79bf2da45">The danger of assumptions: Kotlin with Android custom views</a>
 - <a href="https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0">RxJava recipe: Convert any Android event into a stream</a>
+- <a href="https://medium.com/@sebaslogen/the-evolution-journey-of-android-gui-testing-f65005f7ced8">The evolution journey of Android GUI testing</a>
 
 ---
 
